@@ -54,8 +54,8 @@ All constructive feedback is welcome, especially ideas for refining space and me
 ## 🎯 Progress
 | Day | Problem Title                | Part 1 | Part 2 |
 |-----|------------------------------|--------|--------|
-| 1   | `<Problem Title>`            | ✅      | ✅      |
-| 2   | `<Problem Title>`            | ✅      | ✅      |
+| 1   | `Historian Hysteria`         | ✅      | ✅      |
+| 2   | `Red-Nosed Reports`          | ✅      | ✅      |
 | 3   | `<Problem Title>`            | ❌      | ❌      |
 | ... | ...                          | ...    | ...    |
 
