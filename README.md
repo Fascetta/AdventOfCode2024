@@ -55,7 +55,8 @@ All constructive feedback is welcome, especially ideas for refining space and me
 | Day | Problem Title                | Part 1 | Part 2 |
 |-----|------------------------------|--------|--------|
 | 1   | `<Problem Title>`            | ✅      | ✅      |
-| 2   | `<Problem Title>`            | ❌      | ❌      |
+| 2   | `<Problem Title>`            | ✅      | ✅      |
+| 3   | `<Problem Title>`            | ❌      | ❌      |
 | ... | ...                          | ...    | ...    |
 
 This table will be updated as I progress through the event.
