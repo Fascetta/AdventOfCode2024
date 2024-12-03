@@ -56,7 +56,8 @@ All constructive feedback is welcome, especially ideas for refining space and me
 |-----|------------------------------|--------|--------|
 | 1   | `Historian Hysteria`         | ✅      | ✅      |
 | 2   | `Red-Nosed Reports`          | ✅      | ✅      |
-| 3   | `<Problem Title>`            | ❌      | ❌      |
+| 2   | `Mull It Over`               | ✅      | ✅      |
+| 4   | `<Problem Title>`            | ❌      | ❌      |
 | ... | ...                          | ...    | ...    |
 
 This table will be updated as I progress through the event.
